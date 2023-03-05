@@ -1,4 +1,4 @@
-![](./bannerMain.png)
+![](../bannerMain.png)
 ![]( https://komarev.com/ghpvc/?username=armenian-frog&label=Profile%20views&color=green&style=for-the-badge "Armenian Frog Views" )
 [![](https://img.shields.io/static/v1?label=Armenian+Frog&message=Discord&color=blue&style=for-the-badge&logo=discord)](https://link.com "Official Discord Server")
 
