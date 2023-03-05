@@ -23,8 +23,6 @@
 * React
 * Next.js
 * Nest.js
-* ReduxToolKit
-* SCSS
 
 ## Social network
 * Krimax
